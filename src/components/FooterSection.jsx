@@ -6,7 +6,7 @@ import { IoLogoWhatsapp, IoLogoYoutube } from "react-icons/io";
 const FooterSection = () => {
   return (
     <section className="bg-black text-white">
-      <div className="container mx-auto p-[10px]">
+      <div className="container mx-auto p-[10px] py-[50px]">
         <div className="sm:flex flex-wrap justify-between lg:justify-around">
           <div className="flex justify-center w-[100px] h-[50px]">
             <img src={logo} alt="" />
